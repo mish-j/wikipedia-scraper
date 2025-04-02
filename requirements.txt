@@ -1,0 +1,16 @@
+# For Windows Command Prompt:
+echo selenium==4.10.0 > requirements.txt
+echo pandas==2.0.1 >> requirements.txt
+echo webdriver-manager==3.8.5 >> requirements.txt
+
+# For Windows PowerShell:
+"selenium==4.10.0
+pandas==2.0.1
+webdriver-manager==3.8.5" | Out-File -FilePath requirements.txt
+
+# For Mac/Linux:
+cat > requirements.txt << EOL
+selenium==4.10.0
+pandas==2.0.1
+webdriver-manager==3.8.5
+EOL
