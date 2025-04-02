@@ -1,0 +1,20 @@
+2025-04-02 18:15:48,172 - INFO - WebDriver initialized successfully
+2025-04-02 18:15:55,946 - INFO - Navigated to https://en.wikipedia.org/wiki/Main_Page
+2025-04-02 18:15:56,038 - INFO - Extracted data from article: 
+2025-04-02 18:15:56,056 - INFO - Data saved to wikipedia_articles_20250402_181556.csv
+2025-04-02 18:15:58,299 - INFO - WebDriver closed
+2025-04-02 18:19:56,493 - INFO - WebDriver initialized successfully
+2025-04-02 18:20:00,537 - INFO - Navigated to https://en.wikipedia.org/wiki/Main_Page
+2025-04-02 18:20:03,007 - INFO - Navigated to https://en.wikipedia.org/wiki/Main_Page
+2025-04-02 18:20:03,651 - INFO - Extracted 16 featured and main page articles
+2025-04-02 18:20:07,731 - INFO - Navigated to https://en.wikipedia.org/wiki/Special:Random
+2025-04-02 18:20:07,910 - INFO - Extracted data from article: Comités
+2025-04-02 18:20:13,528 - INFO - Navigated to https://en.wikipedia.org/wiki/Special:Random
+2025-04-02 18:20:13,660 - INFO - Extracted data from article: Transformative arts
+2025-04-02 18:20:17,470 - INFO - Navigated to https://en.wikipedia.org/wiki/Special:Random
+2025-04-02 18:20:17,603 - INFO - Extracted data from article: Danielle Wetherup
+2025-04-02 18:20:23,170 - INFO - Navigated to https://en.wikipedia.org/wiki/Special:Random
+2025-04-02 18:20:23,371 - INFO - Extracted data from article: Bragg House (Camden, Arkansas)
+2025-04-02 18:20:24,372 - INFO - Collected 4 random articles
+2025-04-02 18:20:24,379 - INFO - Data saved to wikipedia_articles_20250402_182024.csv
+2025-04-02 18:20:26,624 - INFO - WebDriver closed
